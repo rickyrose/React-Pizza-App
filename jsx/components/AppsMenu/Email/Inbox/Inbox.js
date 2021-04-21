@@ -70,7 +70,7 @@ const Inbox = () =>{
                                     </Link>
                                 </div>
                                 <div className="mail-list mt-4">
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -78,5 +78,6 @@ const Inbox = () =>{
                 </div>
             </div>
         </Fragment>
-    )
-}
+    );
+};
+export default Inbox;
